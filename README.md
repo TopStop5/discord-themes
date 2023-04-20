@@ -1,7 +1,11 @@
+<p align="center">
+<img src = ".\images\Themes.png" width=100 height=100>
+</p>
+
 <h1 align="center">Discord Themes</h1>
 
 
-<h2 align="Left">Examples:</h2>
+## Examples:
 
 ### Tanjiro Vs Rui:<img src = ".\images\Tanjiro Vs Rui.png">
 ### Kaneki:<img src = ".\images\Kaneki Ken.png">
