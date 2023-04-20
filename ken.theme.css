@@ -12,6 +12,7 @@
  * @BDEditor BasicBackground
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
 
 :root {
@@ -26,13 +27,13 @@
   --transparencycolor: 0,0,0;
   --accentcolor: 211,26,26;
   --backdrop: rgb(0,0,0,1);
-  --textshadow: rgb(0,0,0,1);
+  --textshadow: rgb(255,0,0,1);
   --transparencyalpha: 0.36;
   --messagetransparency: 0.5;
   --guildchanneltransparency: 0.26;
   --chatinputtransparency: 0;
-  --memberlisttransparency: 0.02;
-  --font: Whitney;
+  --memberlisttransparency: 0.58;
+  --font: Roboto;
   --textbrightest: 255,255,255;
   --textbrighter: 222,222,222;
   --textbright: 200,200,200;
